@@ -4,9 +4,9 @@
 
 ## 프로젝트 소개 영상
 
-[![ADAS_SESAC 프로젝트 영상](https://img.shields.io/badge/VIDEO-Google%20Drive-blue?logo=google-drive)](https://drive.google.com/file/d/1F2ZBOQ6YVq_owfXAOOkZvdXa6OEUXJJT/view?usp=sharing)
+[![ADAS_SESAC 프로젝트 영상](https://img.youtube.com/vi/tb9uqWbcwT8/0.jpg)](https://youtu.be/tb9uqWbcwT8)
 
-> 위 버튼을 클릭하면 Google Drive에서 영상을 바로 시청할 수 있습니다.
+> 이미지를 클릭하면 YouTube에서 영상을 볼 수 있습니다.
 
 ---
 
